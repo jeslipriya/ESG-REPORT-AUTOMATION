@@ -1,0 +1,33 @@
+{
+  "Workflows": [
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtMissed&Sequence_1",
+        "dtFailed&Sequence_1",
+        "dtPassed&Sequence_1",
+        "dtResult&Sequence_1",
+        "dtResult&Sequence_1",
+        "dtResult&Sequence_1",
+        "variable1&Sequence_1",
+        "variable3&Sequence_1",
+        "variable2&Sequence_1",
+        "variable1&Sequence_1",
+        "dtResult&Sequence_1",
+        "dtResult&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

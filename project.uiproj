@@ -1,0 +1,6 @@
+{
+  "ProjectType": "Process",
+  "Name": "RPA-Automation",
+  "Description": "Project 3",
+  "MainFile": "Main.xaml"
+}

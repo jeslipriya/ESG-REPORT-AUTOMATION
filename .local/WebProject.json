@@ -1,0 +1,445 @@
+{
+  "Snapshot": {
+    "Id": "06baeb2e-bc7b-4191-8364-513fe01b0422",
+    "ExpressionLanguage": "VisualBasic",
+    "ProjectType": "Process",
+    "Name": "RPA-Automation",
+    "Description": "Project 3",
+    "LastModifiedTime": "2025-08-01T05:46:49.3681911Z",
+    "CreationTime": "2025-07-30T05:15:47.0394263Z",
+    "UserId": "670ca762-b451-4bcd-98e5-64629a5fc8ee",
+    "RootFolder": {
+      "Name": "06baeb2e-bc7b-4191-8364-513fe01b0422",
+      "Folders": [
+        {
+          "Id": "8464b38f-fcba-4e2f-89cd-963f2cc3af8b",
+          "Name": ".settings",
+          "Folders": [
+            {
+              "Id": "53a0cb1f-0217-4f85-bb69-9ebe997a421e",
+              "Name": "Design",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "3503c2f8-b6a2-4d22-94a8-3f4744d154cf",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "7ca395ec-d998-4a44-bdf9-e98b451d1800",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "a83e13f4-c9c8-4e29-89e4-426f8c899e67",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "caee0301-f75a-4e2a-a977-f93cb66700c3",
+                  "Name": "settings-590bb27b.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "415c510b-266b-4964-8e63-3c2479cd7d18",
+              "Name": "Release",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "7988b417-237a-4dab-946d-329f18675d1b",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "a707eb0d-37b9-41d7-8397-0bb17534eabe",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "104a38cf-f858-4daa-b7d0-25c83249b3c0",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "1df056ba-eb4a-479d-9baa-95c6856a0553",
+                  "Name": "settings-590bb27b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "10f08c09-cbf2-423d-af79-0ab2d4950698",
+                  "Name": "settings-1a5b880a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "292d222f-41fa-4afa-a90f-4bef58982f2f",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "a9210b6c-ec6b-421c-8b09-a3abac984597",
+                  "Name": "settings-bae7c370.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "4b82c97a-49e0-4d29-b052-a3f12943daed",
+              "Name": "Debug",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "c89721ed-2ce7-4a74-99c3-3cd5ff47d888",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "f130ca85-cbbf-419c-a643-5c312337fe73",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "549665fd-6fd3-4e4d-bb24-e4437275826f",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "5f00e531-0d6d-4136-9584-fb88e1ba7a8a",
+                  "Name": "settings-590bb27b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "008b5838-086b-493e-9eb7-7417194eddcc",
+                  "Name": "settings-1a5b880a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "f63b819a-7d80-498c-9836-9c78a4ad8de9",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "e029985c-ac31-42ac-96b3-bf33d2961e12",
+                  "Name": "settings-bae7c370.json",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": []
+        },
+        {
+          "Id": "ca119f94-1f0b-4a78-af75-ea447a5cd3fe",
+          "Name": ".entities",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "EntitiesBundle.cThtKlX4jgzvxwLyPuIssBe944ve6lVAYQfdBwcchs.zip",
+              "Name": "EntitiesBundle.cThtKlX4jgzvxwLyPuIssBe944ve6lVAYQfdBwcchs.zip",
+              "IsMain": false
+            },
+            {
+              "Id": "EntitiesBundle.TMtlzlNMmpKLHmAaCihCqaLelMCe9LtlTkvU0aYC9y8.zip",
+              "Name": "EntitiesBundle.TMtlzlNMmpKLHmAaCihCqaLelMCe9LtlTkvU0aYC9y8.zip",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "246c5c5f-6bb3-43ad-8ff1-f4aadc4a996d",
+          "Name": ".project",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "9f7e427f-a3c8-4091-8e19-a7f6b2dc2a16",
+              "Name": "globalVariables.json",
+              "IsMain": false
+            },
+            {
+              "Id": "83265723-5cf9-4cae-834f-cdf4abe40a38",
+              "Name": "PackageBindingsMetadata.json",
+              "IsMain": false
+            },
+            {
+              "Id": "17c24f6c-be17-4d58-9bc5-2a36dfb98c03",
+              "Name": "design.json",
+              "IsMain": false
+            },
+            {
+              "Id": "1902e0c7-f34a-41c0-b17b-2fcb924027af",
+              "Name": "JitCustomTypes.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "99add3cb-3853-4465-a559-dfea0807c9d2",
+          "Name": "Templates",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "5de27965-7614-45c4-8c64-90bf7e459eff",
+              "Name": "Summary_Template.docx",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "8da1e2b7-b3b2-42d1-a14c-7f81956a3136",
+          "Name": ".tmh",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "7fd031ef-26ff-47c1-9eee-903653c9defb",
+              "Name": "config.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "ee049621-755a-4152-ae3e-4e933d05f578",
+          "Name": ".objects",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "9c64fa7f-c4c0-4109-9dde-1fa3c26dda43",
+              "Name": ".metadata",
+              "IsMain": false
+            },
+            {
+              "Id": "8c7c8006-8a66-4979-86dd-857289c773d2",
+              "Name": ".type",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "963ac42e-2dcd-4045-9644-b7ab99981d8f",
+          "Name": ".local",
+          "Folders": [
+            {
+              "Id": "8e117273-e275-42f0-99cd-48bbc0d6c5c7",
+              "Name": "sw-import",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "4b25cb35-aea1-44f9-9e4c-f8db28d0ee19",
+                  "Name": "JitCustomTypesSchema.json",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": []
+        },
+        {
+          "Id": "716ae67c-5867-4f4a-9d31-ec9c113f1db9",
+          "Name": "Output",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "d1c0f64f-bcfe-4f6e-8c6b-69e43812f925",
+              "Name": "Scorecard_Report.xlsx",
+              "IsMain": false
+            },
+            {
+              "Id": "2334f6d2-78fd-44c9-8dec-66d1e3e4eb19",
+              "Name": "Missing_Data.xlsx",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "815942d0-487c-40c3-8cc2-0b66feeb67bf",
+          "Name": "Input",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "81f7dd90-eb7c-4b84-9be9-3c365069df85",
+              "Name": "Book1.xlsx",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "76d7f603-0c49-4d39-8726-248487ac1d5b",
+          "Name": ".templates",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "6c274594-9a19-4259-b78b-44b143b648ee",
+              "Name": "Summary_Template.docx",
+              "IsMain": false
+            }
+          ]
+        }
+      ],
+      "Files": [
+        {
+          "Id": "63c30490-8cfd-4fee-a920-dc107a176b76",
+          "Name": "project.uiproj",
+          "IsMain": false
+        },
+        {
+          "Id": "53fa85a3-e72d-4c39-9aa7-facee8ade860",
+          "Name": "entry-points.json",
+          "IsMain": false
+        },
+        {
+          "Id": "74485046-7b8f-4bf3-a76f-8b49c1e8303d",
+          "Name": "project.json",
+          "IsMain": false
+        },
+        {
+          "Id": "20d9103e-d379-4c08-a073-c32ddc269236",
+          "Name": "Main.xaml",
+          "IsMain": true
+        }
+      ]
+    },
+    "Dependencies": [
+      {
+        "Name": "UiPath.DocumentUnderstanding.ML.Activities",
+        "Version": "[1.34.1-preview]"
+      },
+      {
+        "Name": "UiPath.Excel.Activities",
+        "Version": "[3.2.0-preview]"
+      },
+      {
+        "Name": "UiPath.GSuite.Activities",
+        "Version": "[3.3.1-preview]"
+      },
+      {
+        "Name": "UiPath.IntegrationService.Activities",
+        "Version": "[1.15.0]"
+      },
+      {
+        "Name": "UiPath.Mail.Activities",
+        "Version": "[2.3.0-preview]"
+      },
+      {
+        "Name": "UiPath.PDF.Activities",
+        "Version": "[3.23.1-preview]"
+      },
+      {
+        "Name": "UiPath.System.Activities",
+        "Version": "[25.6.1]"
+      },
+      {
+        "Name": "UiPath.UIAutomation.Activities",
+        "Version": "[25.10.12]"
+      },
+      {
+        "Name": "UiPath.UIAutomation.Activities.Design.RecoveryPanel",
+        "Version": "[24.12.5-preview]"
+      },
+      {
+        "Name": "UiPath.UIAutomation.Activities.DesignExperience",
+        "Version": "[25.10.12]"
+      },
+      {
+        "Name": "UiPath.WebAPI.Activities",
+        "Version": "[2.0.0-preview]"
+      },
+      {
+        "Name": "UiPath.Word.Activities",
+        "Version": "[2.2.0]"
+      }
+    ],
+    "HasTrigger": false,
+    "DisableAutoUpdate": false
+  },
+  "OriginalFilesHash": {
+    ".settings/Release/settings-1a5b880a.json": "7LuMiqeAyudf1SiAtg\u002BL/3TGzsMJkAoNJ7g6yi2hqOg=",
+    "project.json": "evrDRgfcdaWgLfPMR6e2yP8NF0kCIpz6lL\u002BjisipmkU=",
+    ".project/PackageBindingsMetadata.json": "dCW5tOF06lzIPBsXjkF1Q8jcYG4Ool\u002B9mth0B\u002B2ToLQ=",
+    ".settings/Debug/settings-9e9290da.json": "b/srNCul8zLKP5hq/F4I8\u002BR\u002BcOQbwoLvQlJRgU7eL3Y=",
+    "Main.xaml": "QgZi9W2g2eqWf24g8nXYlJYBTJx7MivzDUcmLjksGEQ=",
+    ".objects/.type": "3CCz1dLN34L60zKCHKXppO/c7eSic6oZPStJW9zJKCU=",
+    ".objects/.metadata": "OCjgh2vrPUZMd0nsDpGGYozfraNVjXCnabWlnjtuDLI=",
+    ".settings/Design/settings-a1b2dac1.json": "EAj6pQQLjhKinILKAGtYGi3hd7tCvCKTxIqDYE\u002BFUX0=",
+    ".settings/Release/settings-9e9290da.json": "b/srNCul8zLKP5hq/F4I8\u002BR\u002BcOQbwoLvQlJRgU7eL3Y=",
+    ".settings/Release/settings-590bb27b.json": "bHHKfwYCxWBK5wHYYkrI6Shqs0UriFbMFZ9gbcRgTmY=",
+    ".settings/Debug/settings-afad0842.json": "o6cyP0e4lygMz\u002Ba1AdWsz/rRkRbvynZ6TlDRF8oah28=",
+    ".settings/Debug/settings-1a5b880a.json": "7LuMiqeAyudf1SiAtg\u002BL/3TGzsMJkAoNJ7g6yi2hqOg=",
+    ".settings/Debug/settings-5190454b.json": "UhKw5/4PuZwxF\u002B\u002BlfSGgATMNvJgpWbldxZGw2hEI6cc=",
+    ".project/globalVariables.json": "T1PNoYwrqgwDVLtfmj7L5e0Sq02OEbqHPC8RFhICuUU=",
+    ".tmh/config.json": "Tk6QDUUsqtifkyIEMEjvqL300ZUpxaIp15qlWlZ\u002B18w=",
+    ".settings/Design/settings-afad0842.json": "jjBbv/WXwDPEhGnbSVQxlI3fuMaxR42abIF\u002B4Qju1ok=",
+    "Templates/Summary_Template.docx": "x2\u002BVMEf67Kmi/igR0VIfewjTToscaHefakSgwJY0edU=",
+    ".settings/Release/settings-bae7c370.json": "nSD0krS0j1GLBHGd6M4ZzYKTXqKN3owSy0FDMnv5eA8=",
+    ".settings/Debug/settings-a1b2dac1.json": "QqFaHtMV\u002BQgl4cipiZgUF7k4zZW6k/lIfpqk0LleecY=",
+    ".settings/Release/settings-a1b2dac1.json": "QqFaHtMV\u002BQgl4cipiZgUF7k4zZW6k/lIfpqk0LleecY=",
+    ".settings/Release/settings-5190454b.json": "UhKw5/4PuZwxF\u002B\u002BlfSGgATMNvJgpWbldxZGw2hEI6cc=",
+    ".project/JitCustomTypes.json": "u\u002BnfUpSGfRxyfa9NNMPZaItkvrw2gt5IpvXJhiv1lMI=",
+    ".project/design.json": "n1EvFBjXucrOzM4jh\u002BfVhnpMnwvTShOoHQVclgc/QMA=",
+    ".entities/EntitiesBundle.TMtlzlNMmpKLHmAaCihCqaLelMCe9LtlTkvU0aYC9y8.zip": "8aOaZkKGyv0ZtdYld4mk8axTKog3fbX33Lupxll8xNM=",
+    ".settings/Debug/settings-bae7c370.json": "nSD0krS0j1GLBHGd6M4ZzYKTXqKN3owSy0FDMnv5eA8=",
+    ".project/JitCustomTypesSchema.json": "3W7c6zPHfsQ1MTkLWVzyGJfV/h/azv6gdpqgEnfhjCc=",
+    ".settings/Design/settings-5190454b.json": "R8KMXeb6aoFhT/ZIUo1Ju8IME0pdk4z0CdfLSKo011s=",
+    "Input/Book1.xlsx": "XQk9xjguPqxGwSnHO0PqpTtmgNP87PgJxCwXfUOQPuE=",
+    "Output/Scorecard_Report.xlsx": "Ap0Dzj\u002BjdBH\u002B78MJtNWtj208PQzpz1ZpIoAbwKRJUaA=",
+    ".settings/Release/settings-afad0842.json": "o6cyP0e4lygMz\u002Ba1AdWsz/rRkRbvynZ6TlDRF8oah28=",
+    ".templates/Summary_Template.docx": "r6EdQyDr3SCJkZiRT6zh6p6V6yF6Jz27mTj/fz8UseE=",
+    "entry-points.json": "TDFXNaWp5heDxikgdSMGMGt1\u002BiXdAT5IvJvpVP5\u002BjIU=",
+    ".settings/Debug/settings-590bb27b.json": "bHHKfwYCxWBK5wHYYkrI6Shqs0UriFbMFZ9gbcRgTmY=",
+    ".settings/Design/settings-590bb27b.json": "GOdSY\u002BpO2PiO1vEkEGydb9BLnfazGjj\u002Be5T0e3ZdUn8=",
+    "project.uiproj": "fj0gzXGm/qi1BS05\u002B12koMSHvOr1a8dd9TeKiz4kimw=",
+    "Output/Missing_Data.xlsx": "pn62/aZtmhOxqTogmtpNY\u002BX\u002BEfMgg7j3fDmDFvfGAUo="
+  },
+  "OriginalFolders": [
+    ".entities",
+    ".objects",
+    ".project",
+    ".settings",
+    ".settings/Debug",
+    ".settings/Design",
+    ".settings/Release",
+    ".templates",
+    ".tmh",
+    "Input",
+    "Output",
+    "Templates"
+  ],
+  "StudioWebFiles": [
+    ".settings/Release/settings-1a5b880a.json",
+    "project.json",
+    ".project/PackageBindingsMetadata.json",
+    ".settings/Debug/settings-9e9290da.json",
+    "Main.xaml",
+    ".objects/.type",
+    ".objects/.metadata",
+    ".settings/Design/settings-a1b2dac1.json",
+    ".settings/Release/settings-9e9290da.json",
+    ".settings/Release/settings-590bb27b.json",
+    ".settings/Debug/settings-afad0842.json",
+    ".settings/Debug/settings-1a5b880a.json",
+    ".settings/Debug/settings-5190454b.json",
+    ".project/globalVariables.json",
+    ".tmh/config.json",
+    ".settings/Design/settings-afad0842.json",
+    "Templates/Summary_Template.docx",
+    ".settings/Release/settings-bae7c370.json",
+    ".settings/Debug/settings-a1b2dac1.json",
+    ".settings/Release/settings-a1b2dac1.json",
+    ".settings/Release/settings-5190454b.json",
+    ".project/JitCustomTypes.json",
+    ".project/design.json",
+    ".entities/EntitiesBundle.TMtlzlNMmpKLHmAaCihCqaLelMCe9LtlTkvU0aYC9y8.zip",
+    ".settings/Debug/settings-bae7c370.json",
+    ".project/JitCustomTypesSchema.json",
+    ".settings/Design/settings-5190454b.json",
+    "Input/Book1.xlsx",
+    "Output/Scorecard_Report.xlsx",
+    ".settings/Release/settings-afad0842.json",
+    ".templates/Summary_Template.docx",
+    "entry-points.json",
+    ".settings/Debug/settings-590bb27b.json",
+    ".settings/Design/settings-590bb27b.json",
+    "project.uiproj",
+    "Output/Missing_Data.xlsx"
+  ],
+  "StudioWebEmptyFolders": []
+}
