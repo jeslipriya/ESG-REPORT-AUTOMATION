@@ -117,4 +117,4 @@ No hardcoding. No manual work. 100% dynamic and scalable.
 
 ## Authors
 
-[JesliPriya](jeslipriya), [Akash](Akashmathiyalagan), [Mridula](MRIDULA-0-9)
+[JesliPriya](https://github.com/jeslipriya), [Akash](https://github.com/Akashmathiyalagan), [Mridula](https://github.com/MRIDULA-0-9)
