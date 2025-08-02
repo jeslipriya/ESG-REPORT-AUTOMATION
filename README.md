@@ -42,7 +42,7 @@ No hardcoding. No manual work. 100% dynamic and scalable.
 
 ### 3. Dashboard Page (UiPath Apps)
 
-* **Dynamic data display **
+* **Dynamic data display**
 
   * Columns: FileName, Score, Status, Violations, Date, Download Link
 * **Filters:**
