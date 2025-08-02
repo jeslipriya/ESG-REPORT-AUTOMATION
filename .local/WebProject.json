@@ -5,7 +5,7 @@
     "ProjectType": "Process",
     "Name": "RPA-Automation",
     "Description": "Project 3",
-    "LastModifiedTime": "2025-08-01T05:46:49.3681911Z",
+    "LastModifiedTime": "2025-08-02T15:52:48.0769505Z",
     "CreationTime": "2025-07-30T05:15:47.0394263Z",
     "UserId": "670ca762-b451-4bcd-98e5-64629a5fc8ee",
     "RootFolder": {
@@ -135,13 +135,13 @@
           "Folders": [],
           "Files": [
             {
-              "Id": "EntitiesBundle.cThtKlX4jgzvxwLyPuIssBe944ve6lVAYQfdBwcchs.zip",
-              "Name": "EntitiesBundle.cThtKlX4jgzvxwLyPuIssBe944ve6lVAYQfdBwcchs.zip",
+              "Id": "EntitiesBundle.TMtlzlNMmpKLHmAaCihCqaLelMCe9LtlTkvU0aYC9y8.zip",
+              "Name": "EntitiesBundle.TMtlzlNMmpKLHmAaCihCqaLelMCe9LtlTkvU0aYC9y8.zip",
               "IsMain": false
             },
             {
-              "Id": "EntitiesBundle.TMtlzlNMmpKLHmAaCihCqaLelMCe9LtlTkvU0aYC9y8.zip",
-              "Name": "EntitiesBundle.TMtlzlNMmpKLHmAaCihCqaLelMCe9LtlTkvU0aYC9y8.zip",
+              "Id": "EntitiesBundle.bep3slObpvS21O3Cy3tdop9JdP2kAssRixGp9Hets.zip",
+              "Name": "EntitiesBundle.bep3slObpvS21O3Cy3tdop9JdP2kAssRixGp9Hets.zip",
               "IsMain": false
             }
           ]
@@ -261,18 +261,6 @@
               "IsMain": false
             }
           ]
-        },
-        {
-          "Id": "76d7f603-0c49-4d39-8726-248487ac1d5b",
-          "Name": ".templates",
-          "Folders": [],
-          "Files": [
-            {
-              "Id": "6c274594-9a19-4259-b78b-44b143b648ee",
-              "Name": "Summary_Template.docx",
-              "IsMain": false
-            }
-          ]
         }
       ],
       "Files": [
@@ -284,6 +272,11 @@
         {
           "Id": "53fa85a3-e72d-4c39-9aa7-facee8ade860",
           "Name": "entry-points.json",
+          "IsMain": false
+        },
+        {
+          "Id": "0ebd917b-129e-4923-a9ca-1837a76cc243",
+          "Name": "README.md",
           "IsMain": false
         },
         {
@@ -361,6 +354,7 @@
     ".objects/.metadata": "OCjgh2vrPUZMd0nsDpGGYozfraNVjXCnabWlnjtuDLI=",
     ".settings/Design/settings-a1b2dac1.json": "EAj6pQQLjhKinILKAGtYGi3hd7tCvCKTxIqDYE\u002BFUX0=",
     ".settings/Release/settings-9e9290da.json": "b/srNCul8zLKP5hq/F4I8\u002BR\u002BcOQbwoLvQlJRgU7eL3Y=",
+    "README.md": "ZY0x8Q/EjNROY8LqfogJapfpFKF\u002BlrMNJCLv7GLz3YI=",
     ".settings/Release/settings-590bb27b.json": "bHHKfwYCxWBK5wHYYkrI6Shqs0UriFbMFZ9gbcRgTmY=",
     ".settings/Debug/settings-afad0842.json": "o6cyP0e4lygMz\u002Ba1AdWsz/rRkRbvynZ6TlDRF8oah28=",
     ".settings/Debug/settings-1a5b880a.json": "7LuMiqeAyudf1SiAtg\u002BL/3TGzsMJkAoNJ7g6yi2hqOg=",
@@ -379,10 +373,9 @@
     ".settings/Debug/settings-bae7c370.json": "nSD0krS0j1GLBHGd6M4ZzYKTXqKN3owSy0FDMnv5eA8=",
     ".project/JitCustomTypesSchema.json": "3W7c6zPHfsQ1MTkLWVzyGJfV/h/azv6gdpqgEnfhjCc=",
     ".settings/Design/settings-5190454b.json": "R8KMXeb6aoFhT/ZIUo1Ju8IME0pdk4z0CdfLSKo011s=",
-    "Input/Book1.xlsx": "XQk9xjguPqxGwSnHO0PqpTtmgNP87PgJxCwXfUOQPuE=",
     "Output/Scorecard_Report.xlsx": "Ap0Dzj\u002BjdBH\u002B78MJtNWtj208PQzpz1ZpIoAbwKRJUaA=",
+    "Input/Book1.xlsx": "XQk9xjguPqxGwSnHO0PqpTtmgNP87PgJxCwXfUOQPuE=",
     ".settings/Release/settings-afad0842.json": "o6cyP0e4lygMz\u002Ba1AdWsz/rRkRbvynZ6TlDRF8oah28=",
-    ".templates/Summary_Template.docx": "r6EdQyDr3SCJkZiRT6zh6p6V6yF6Jz27mTj/fz8UseE=",
     "entry-points.json": "TDFXNaWp5heDxikgdSMGMGt1\u002BiXdAT5IvJvpVP5\u002BjIU=",
     ".settings/Debug/settings-590bb27b.json": "bHHKfwYCxWBK5wHYYkrI6Shqs0UriFbMFZ9gbcRgTmY=",
     ".settings/Design/settings-590bb27b.json": "GOdSY\u002BpO2PiO1vEkEGydb9BLnfazGjj\u002Be5T0e3ZdUn8=",
@@ -413,6 +406,7 @@
     ".objects/.metadata",
     ".settings/Design/settings-a1b2dac1.json",
     ".settings/Release/settings-9e9290da.json",
+    "README.md",
     ".settings/Release/settings-590bb27b.json",
     ".settings/Debug/settings-afad0842.json",
     ".settings/Debug/settings-1a5b880a.json",
@@ -431,10 +425,9 @@
     ".settings/Debug/settings-bae7c370.json",
     ".project/JitCustomTypesSchema.json",
     ".settings/Design/settings-5190454b.json",
-    "Input/Book1.xlsx",
     "Output/Scorecard_Report.xlsx",
+    "Input/Book1.xlsx",
     ".settings/Release/settings-afad0842.json",
-    ".templates/Summary_Template.docx",
     "entry-points.json",
     ".settings/Debug/settings-590bb27b.json",
     ".settings/Design/settings-590bb27b.json",
