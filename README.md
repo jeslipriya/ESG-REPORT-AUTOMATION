@@ -50,7 +50,7 @@ No hardcoding. No manual work. 100% dynamic and scalable.
   * Score range (e.g. >80%)
   * Date Range
 
-### 4. 🧠 Chatbot Page (UiPath Apps + OpenAi)
+### 4. Chatbot Page (UiPath Apps + OpenAi)
 
 * **User Input:**
 
@@ -62,7 +62,7 @@ No hardcoding. No manual work. 100% dynamic and scalable.
   3. Sends prompt to GPT-4
   4. Returns and displays response
 
-### 5. 📄 Auto-filled ESG Report (Word Template)
+### 5. Auto-filled ESG Report (Word Template)
 
 * Template: `ESG_Report_Template.docx`
 * Generates PDF and saves to `Output/`
@@ -95,7 +95,7 @@ No hardcoding. No manual work. 100% dynamic and scalable.
 
 ---
 
-## ✅ Final Output for Judges
+## Final Output for Judges
 
 | Section     | Description                                             |
 | ----------- | ------------------------------------------------------- |
