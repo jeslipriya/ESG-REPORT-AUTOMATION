@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project automates the ESG (Environmental, Social, and Governance) compliance process for IT companies using UiPath. It enables authorities to upload ESG data in various formats (Excel, PDF, CSV), validates the data against dynamic rules, and generates automated reports, summaries, and dashboards - all integrated with AI and cloud technologies.
+This project automates the ESG (Environmental, Social, and Governance) compliance process for IT companies using UiPath. It enables authorities to upload ESG data in various formats (Excel, PDF), validates the data against dynamic rules, and generates automated reports, summaries, and dashboards - all integrated with AI and cloud technologies.
 
 No hardcoding. No manual work. 100% dynamic and scalable.
 
