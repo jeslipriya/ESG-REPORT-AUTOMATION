@@ -65,13 +65,6 @@ No hardcoding. No manual work. 100% dynamic and scalable.
 ### 5. 📄 Auto-filled ESG Report (Word Template)
 
 * Template: `ESG_Report_Template.docx`
-* Placeholders:
-
-  * Company: <<Company>>
-  * Date: <<Date>>
-  * Score: <<Score>>%
-  * Violations: <<Violations>>
-  * AI Summary: <<AISummary>>
 * Generates PDF and saves to `Output/`
 
 ---
@@ -111,7 +104,7 @@ No hardcoding. No manual work. 100% dynamic and scalable.
 | Report      | AI-powered summary & violation analysis in PDF format   |
 | Dashboard   | Real-time dashboard with filters                        |
 | Chatbot     | Real-time ESG Q\&A using OpenAI + latest uploaded data  |
-| E-mail      | Sends the reports as E-mail to the Authorities          |
+| E-mail      | Sends the reports as E-mail to the Authorities          | 
 
 ---
 
