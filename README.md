@@ -16,7 +16,7 @@ No hardcoding. No manual work. 100% dynamic and scalable.
 
   * Uploads Excel, PDF files
   * Upload button triggers bot
-  * Status label shows real-time success/error
+  * Status label shows real-time success/error/missing data
   * Optional table shows last 3 uploads
 
 * **Automation:**
